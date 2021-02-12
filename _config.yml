@@ -16,7 +16,7 @@ content:
         caption: "September 2019 - December 2020"
         description: "I set up a new research line for the lab in the game engine Unity for researching vision with the help of deep convolutional neural networks. The Unity environment is capable of generating large datasets while retaining the experimental control necessary for scientific research. I subsequently trained and investigated convolutional neural networks in PyTorch"
         layout: left
-        quote: "**Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features**"
+        quote: "<b>Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features</b>"
         sub_title: "University of Amsterdam <br> ◉ Grade 9.5/10"
         title: "Deep Learning Research Intern @ Scholte lab"
     layout: list
@@ -47,8 +47,17 @@ content:
         caption: "2017 - 2020"
         description: "The Research Master's programme in Brain and Cognitive Sciences at the University of Amsterdam offers a broad selection of tracks that investigate all aspects of the field, from the molecule to the mind. The programme is unique in its interdisciplinary perspective that incorporates the fields of neuroscience, neurology, psychology, behavioural economics, linguistics, logic, computation and philosophy. The brain is an immensely powerful and intricate processing device dedicated to the selection, perception, transformation and storage of the indispensable information we use to interact with our ever-changing, dynamic environment."
         layout: left
-        sub_title: "University of Amsterdam <br> Cognitive Neuroscience Track"
+        sub_title: "University of Amsterdam <br> Cognitive Neuroscience Track <br> ◉ GPA 8.6/10"
         title: "Research Master Brain and Cognitive Sciences"
+  -
+    layout: list
+    content:
+      -
+        caption: "September 2018 - February 2019"
+        description: ""
+        layout: left
+        sub_title: "University of Amsterdam <br> Cognitive Neuroscience Track <br> ◉ GPA 8.6/10"
+        title: "Minor Programming"
 
 darkmode: false
 email: p.oosterholt@gmail.com
