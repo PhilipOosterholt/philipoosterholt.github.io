@@ -60,7 +60,6 @@ about_content: | # this will include new lines to allow paragraphs
         title: Deep learning intern
         sub_title: University of Amsterdam @ Scholte lab
         caption: September 2019 - December 2020
-        caption: ◉ Grade 9.5/10
         quote: >
           Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features
         description: | # this will include new lines to allow paragraphs
