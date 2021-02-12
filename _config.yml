@@ -1,80 +1,39 @@
-# Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+---
+about_content: |
+    Hi am a data scientist and entrepreneur looking for new challenges in the field of data science and machine learning. .
 
-# Content configuration version
-version: 2
-
-# Personal info
-name: Philip Oosterholt
-title: Data scientist
-email: p.oosterholt@gmail.com
-website: philipoosterholt@github.io
-
-# Dark Mode (true/false/never)
-darkmode: false
-
-# Social links
-#twitter_username: facespics
-github_username:  PhilipOosterholt
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
-# About Section
-# about_title: About Me
+    I am most skilled in: <mark>machine learning</mark> and <mark>scientific research/mark>.
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi am a data scientist and entrepreneur looking for new challenges in the field of data science and machine learning. .
-
-  I am most skilled in: <mark>machine learning</mark> and <mark>scientific research/mark>.
-
+additional_links:
+  -
+    icon: "fas fa-globe"
+    title: itsgoingto.be
+    url: "https://www.itsgoingto.be"
 content:
-  - title: Research Intern Deep Learning
-    layout: list # Type of content section (list/text)
+  -
     content:
-      - layout: left
-            title: University of Amsterdam
-            sub_title: ◉ Grade 9.5/10
-            caption: September 2019 - December 2020
-            quote: >
-              Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features
-            description: | # this will include new lines to allow paragraphs
-                I set up a new research line for the lab in the game engine Unity for researching vision with the help of deep convolutional neural networks. The Unity environment is capable of generating large datasets while retaining the experimental control necessary for scientific research. I subsequently trained and investigated convolutional neural networks in PyTorch.
-
-# Footer
+      -
+        caption: "September 2019 - December 2020"
+        layout: left
+        quote: "Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features description: | # this will include new lines to allow paragraphs I set up a new research line for the lab in the game engine Unity for researching vision with the help of deep convolutional neural networks. The Unity environment is capable of generating large datasets while retaining the experimental control necessary for scientific research. I subsequently trained and investigated convolutional neural networks in PyTorch.\n"
+        sub_title: "◉ Grade 9.5/10"
+        title: "University of Amsterdam"
+    layout: list
+    title: "Research Intern Deep Learning"
+darkmode: false
+email: p.oosterholt@gmail.com
+favicon: images/favicon.ico
 footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
+github_username: PhilipOosterholt
+linkedin_username: jameswgrant
+name: "Philip Oosterholt"
+plugins:
+  - jekyll-seo-tag
 remote_theme: sproogen/resume-theme
-
+repository: sproogen/resume-theme
 sass:
   sass_dir: _sass
   style: compressed
-
-plugins:
- - jekyll-seo-tag
+title: "Data scientist"
+version: 2
+website: philipoosterholt@github.io
