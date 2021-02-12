@@ -18,7 +18,7 @@ content:
         layout: left
         quote: "<b>Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features</b>"
         sub_title: "University of Amsterdam <br> ◉ Grade 9.5/10"
-        title: "Deep Learning Research Intern @ Scholte lab"
+        title: "Deep Learning Research Intern @ Scholte lab <br>"
     layout: list
     title: "Work Experience"
   -
@@ -27,9 +27,9 @@ content:
         caption: "January 2018 - September 2018"
         description: "I’ve conducted electrophysiology experiments and analyzed data (Matlab)."
         layout: left
-        quote: "**The Differences in Neural Mechanisms of Mismatch Negativity. Responses Across Conscious and Non-Conscious Brain States**"
+        quote: "<b>The Differences in Neural Mechanisms of Mismatch Negativity. Responses Across Conscious and Non-Conscious Brain States</b>"
         sub_title: "University of Amsterdam"
-        title: "Research Intern @ Swammerdam Institute for Life Sciences"
+        title: "Research Intern @ Swammerdam Institute for Life Sciences <br>"
     layout: list
   -
     content:
@@ -37,7 +37,8 @@ content:
         caption: "2014 - 2017"
         description: "BrainFitness is a platform for consumer neurotechnology in the Netherlands. Our mission is to accelerate the adoption of neurotechnology in the Netherlands. We bring the most innovative neurotechnology to the Dutch market and make it available for consumers, companies and healthcare Professionals. The company was sold in 2017."
         layout: left
-        title: "Co-Founder and CEO"
+        title: BrainFitness
+        sub_title: Co-Founder and CEO
     layout: list
   -
     layout: list
@@ -48,7 +49,7 @@ content:
         description: "The Research Master's programme in Brain and Cognitive Sciences at the University of Amsterdam offers a broad selection of tracks that investigate all aspects of the field, from the molecule to the mind. The programme is unique in its interdisciplinary perspective that incorporates the fields of neuroscience, neurology, psychology, behavioural economics, linguistics, logic, computation and philosophy. The brain is an immensely powerful and intricate processing device dedicated to the selection, perception, transformation and storage of the indispensable information we use to interact with our ever-changing, dynamic environment."
         layout: left
         sub_title: "University of Amsterdam <br> Cognitive Neuroscience Track <br> ◉ GPA 8.6/10"
-        title: "Research Master Brain and Cognitive Sciences"
+        title: "Research Master of cuddeling Brain and Cognitive Sciences<br>"
   -
     layout: list
     content:
@@ -65,7 +66,7 @@ favicon: images/favicon.ico
 footer_show_references: true
 github_username: PhilipOosterholt
 linkedin_username: jameswgrant
-name: "Philip Oosterholt"
+name: "Philip Oosterholt `knoedelmann`"
 plugins:
   - jekyll-seo-tag
 remote_theme: sproogen/resume-theme
