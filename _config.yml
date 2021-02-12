@@ -17,8 +17,8 @@ content:
         description: "I set up a new research line for the lab in the game engine Unity for researching vision with the help of deep convolutional neural networks. The Unity environment is capable of generating large datasets while retaining the experimental control necessary for scientific research. I subsequently trained and investigated convolutional neural networks in PyTorch"
         layout: left
         quote: "<b>Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features</b>"
-        sub_title: "University of Amsterdam <br> ◉ Grade 9.5/10"
-        title: "Deep Learning Research Intern @ Scholte lab <br>"
+        sub_title: "<br>University of Amsterdam <br> ◉ Grade 9.5/10"
+        title: "Deep Learning Research Intern @ Scholte lab"
     layout: list
     title: "Work Experience"
   -
@@ -28,8 +28,8 @@ content:
         description: "I’ve conducted electrophysiology experiments and analyzed data (Matlab)."
         layout: left
         quote: "<b>The Differences in Neural Mechanisms of Mismatch Negativity. Responses Across Conscious and Non-Conscious Brain States</b>"
-        sub_title: "University of Amsterdam"
-        title: "Research Intern @ Swammerdam Institute for Life Sciences <br>"
+        sub_title: "<br>University of Amsterdam"
+        title: "Research Intern @ Swammerdam Institute for Life Sciences"
     layout: list
   -
     content:
@@ -48,8 +48,8 @@ content:
         caption: "2017 - 2020"
         description: "The Research Master's programme in Brain and Cognitive Sciences at the University of Amsterdam offers a broad selection of tracks that investigate all aspects of the field, from the molecule to the mind. The programme is unique in its interdisciplinary perspective that incorporates the fields of neuroscience, neurology, psychology, behavioural economics, linguistics, logic, computation and philosophy. The brain is an immensely powerful and intricate processing device dedicated to the selection, perception, transformation and storage of the indispensable information we use to interact with our ever-changing, dynamic environment."
         layout: left
-        sub_title: "University of Amsterdam <br> Cognitive Neuroscience Track <br> ◉ GPA 8.6/10"
-        title: "Research Master of cuddeling Brain and Cognitive Sciences<br>"
+        sub_title: "<br>University of Amsterdam <br> Cognitive Neuroscience Track <br> ◉ GPA 8.6/10"
+        title: "Research Master Brain and Cognitive Sciences"
   -
     layout: list
     content:
@@ -57,7 +57,7 @@ content:
         caption: "September 2018 - February 2019"
         description: ""
         layout: left
-        sub_title: "University of Amsterdam <br> Cognitive Neuroscience Track <br> ◉ GPA 8.6/10"
+        sub_title: "University of Amsterdam <br> ◉ GPA 8.5/10"
         title: "Minor Programming"
 
 darkmode: false
@@ -66,7 +66,7 @@ favicon: images/favicon.ico
 footer_show_references: true
 github_username: PhilipOosterholt
 linkedin_username: jameswgrant
-name: "Philip Oosterholt `knoedelmann`"
+name: "Philip Oosterholt"
 plugins:
   - jekyll-seo-tag
 remote_theme: sproogen/resume-theme
