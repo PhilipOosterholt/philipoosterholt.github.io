@@ -40,17 +40,16 @@ content:
         title: "Co-Founder and CEO"
     layout: list
   -
+    layout: list
+    title: Education
     content:
       -
-        content:
-          -
-            caption: "2017 - 2020"
-            description: "The Research Master's programme in Brain and Cognitive Sciences at the University of Amsterdam offers a broad selection of tracks that investigate all aspects of the field, from the molecule to the mind. The programme is unique in its interdisciplinary perspective that incorporates the fields of neuroscience, neurology, psychology, behavioural economics, linguistics, logic, computation and philosophy. The brain is an immensely powerful and intricate processing device dedicated to the selection, perception, transformation and storage of the indispensable information we use to interact with our ever-changing, dynamic environment."
-            layout: left
-            sub_title: "University of Amsterdam <br> Cognitive Neuroscience Track"
-            title: "Research Master Brain and Cognitive Sciences"
-        layout: list
-        title: Education
+        caption: "2017 - 2020"
+        description: "The Research Master's programme in Brain and Cognitive Sciences at the University of Amsterdam offers a broad selection of tracks that investigate all aspects of the field, from the molecule to the mind. The programme is unique in its interdisciplinary perspective that incorporates the fields of neuroscience, neurology, psychology, behavioural economics, linguistics, logic, computation and philosophy. The brain is an immensely powerful and intricate processing device dedicated to the selection, perception, transformation and storage of the indispensable information we use to interact with our ever-changing, dynamic environment."
+        layout: left
+        sub_title: "University of Amsterdam <br> Cognitive Neuroscience Track"
+        title: "Research Master Brain and Cognitive Sciences"
+
 darkmode: false
 email: p.oosterholt@gmail.com
 favicon: images/favicon.ico
