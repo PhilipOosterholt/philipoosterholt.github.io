@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi am a data scientist and entrepreneur looking for new challenges in the field of data science and machine learning. .
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>machine learning</mark> and <mark>scientific research/mark>.
 
 content:
   - title: Research Intern Deep Learning
