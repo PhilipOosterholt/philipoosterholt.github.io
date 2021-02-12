@@ -23,7 +23,8 @@ content:
         title: "Deep Learning Research Intern @ Scholte lab"
 
 content:
-  - layout: list # Type of content section (list/text)
+  - title: "Work Experience 2"
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         caption: "September 2019 - December 2020"
