@@ -17,8 +17,8 @@ content:
         layout: left
         quote: "Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features" # description: | # this will include new lines to allow parag.\n"
         title: "Deep Learning Research Intern"
-        sub_title: "University of Amsterdam"
-        sub_title: "◉ Grade 9.5/10"
+        sub_title: | University of Amsterdam
+                   | ◉ Grade 9.5/10
         description: "I set up a new research line for the lab in the game engine Unity for researching vision with the help of deep convolutional neural networks. The Unity environment is capable of generating large datasets while retaining the experimental control necessary for scientific research. I subsequently trained and investigated convolutional neural networks in PyTorch"
     layout: list
     title: "Work Experience"
