@@ -15,11 +15,13 @@ content:
       -
         caption: "September 2019 - December 2020"
         layout: left
-        quote: "Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features description: | # this will include new lines to allow paragraphs I set up a new research line for the lab in the game engine Unity for researching vision with the help of deep convolutional neural networks. The Unity environment is capable of generating large datasets while retaining the experimental control necessary for scientific research. I subsequently trained and investigated convolutional neural networks in PyTorch.\n"
+        quote: "Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features" # description: | # this will include new lines to allow parag.\n"
+        title: "Deep Learning Research Intern"
+        sub_title: "University of Amsterdam"
         sub_title: "◉ Grade 9.5/10"
-        title: "University of Amsterdam"
+        description: "I set up a new research line for the lab in the game engine Unity for researching vision with the help of deep convolutional neural networks. The Unity environment is capable of generating large datasets while retaining the experimental control necessary for scientific research. I subsequently trained and investigated convolutional neural networks in PyTorch"
     layout: list
-    title: "Research Intern Deep Learning"
+    title: "Work Experience"
 darkmode: false
 email: p.oosterholt@gmail.com
 favicon: images/favicon.ico
