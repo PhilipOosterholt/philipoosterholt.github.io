@@ -27,12 +27,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        caption: "September 2019 - December 2020"
+        caption: "January 2018 - September 2018"
         description: "I set up a new research line for the lab in the game engine Unity for researching vision with the help of deep convolutional neural networks. The Unity environment is capable of generating large datasets while retaining the experimental control necessary for scientific research. I subsequently trained and investigated convolutional neural networks in PyTorch"
         quote: "Depth in Convolutional Neural Networks Accomplish Scene Segmentation through the Selection of High-level Object Features"
         sub_title: |
-            University of Amsterdam <br> ◉ Grade 9.5/10
-        title: "Deep Learning Research Intern @ Scholte lab"
+            University of Amsterdam
+        title: "Research Intern @ Swammerdam Institute for Life Sciences"
 
 darkmode: false
 email: p.oosterholt@gmail.com
