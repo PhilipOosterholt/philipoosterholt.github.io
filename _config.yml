@@ -29,6 +29,13 @@ content:
         quote: Title: Differences in Neural Mechanisms of Mismatch Negativity. Responses Across Conscious and Non-Conscious Brain States
         sub_title: University of Amsterdam
         title: Research Intern @ Swammerdam Institute for Life Sciences
+
+  - layout: list
+    content:
+      - layout: left
+        caption: 2014 - 2017
+        description: BrainFitness is a platform for consumer neurotechnology in the Netherlands. Our mission is to accelerate the adoption of neurotechnology in the Netherlands. We bring the most innovative neurotechnology to the Dutch market and make it available for consumers, companies and healthcare Professionals. The company was sold in 2017.
+        title: Co-Founder and CEO
         
 darkmode: false
 email: p.oosterholt@gmail.com
