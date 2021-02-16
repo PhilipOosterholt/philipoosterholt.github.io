@@ -1,5 +1,5 @@
 current directory: /Users/philip/Documents/GitHub/philipoosterholt.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210212-30157-17s9cod.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210216-35243-6xa6ci.rb extconf.rb
 checking for -lstdc++... yes
 creating Makefile
 
@@ -17,4 +17,4 @@ ld: warning: ignoring file unf.o, building for macOS-x86_64 but attempting to li
 
 current directory: /Users/philip/Documents/GitHub/philipoosterholt.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.7.7/ext/unf_ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20210212-30157-1a4enm2
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20210216-35243-1gzs33u

@@ -1,5 +1,5 @@
 current directory: /Users/philip/Documents/GitHub/philipoosterholt.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210212-30157-1kj2icn.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210216-35243-1h9548b.rb extconf.rb
 checking for rb_ary_subseq()... yes
 creating Makefile
 
@@ -17,4 +17,4 @@ ld: warning: ignoring file cparse.o, building for macOS-x86_64 but attempting to
 
 current directory: /Users/philip/Documents/GitHub/philipoosterholt.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20210212-30157-fjom28/racc
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20210216-35243-c2byo4/racc

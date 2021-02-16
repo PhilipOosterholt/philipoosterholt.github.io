@@ -1,5 +1,5 @@
 current directory: /Users/philip/Documents/GitHub/philipoosterholt.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210212-30157-1waj25d.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20210216-35243-4wqs38.rb extconf.rb
 creating Makefile
 
 current directory: /Users/philip/Documents/GitHub/philipoosterholt.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
@@ -11,12 +11,12 @@ compiling mapper.cpp
 compiling rubymain.cpp
 linking shared-object fastfilereaderext.bundle
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.Internal.sdk/usr/local/lib'
-ld: warning: ignoring file mapper.o, building for macOS-arm64e but attempting to link with file built for unknown-arm64
 ld: warning: ignoring file rubymain.o, building for macOS-arm64e but attempting to link with file built for unknown-arm64
+ld: warning: ignoring file mapper.o, building for macOS-arm64e but attempting to link with file built for unknown-arm64
 ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.Internal.sdk/usr/local/lib'
-ld: warning: ignoring file mapper.o, building for macOS-x86_64 but attempting to link with file built for unknown-arm64
-ld: warning: ignoring file rubymain.o, building for macOS-x86_64 but attempting to link with file built for unknown-arm64
+ld: warning: ld: warning: ignoring file mapper.o, building for macOS-x86_64 but attempting to link with file built for unknown-arm64
+ignoring file rubymain.o, building for macOS-x86_64 but attempting to link with file built for unknown-arm64
 
 current directory: /Users/philip/Documents/GitHub/philipoosterholt.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20210212-30157-ci258k
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20210216-35243-1b3ph2j
