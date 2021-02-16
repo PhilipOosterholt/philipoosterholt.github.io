@@ -95,7 +95,10 @@ content:
         neuroscience, neurology, psychology, behavioural economics, linguistics,
         logic, computation (including AI) and philosophy.
         <br><br>The interdisciplinary nature of the master allowed me to pivot
-        from neuroscience to AI."
+        from neuroscience to AI. <b>Thesis: Supervised and Self-Supervised
+        Learning in Deep Convolutional Neural Networks as Computational Models
+        for Object Recognition. ◉ Grade 9/10</b> Download the thesis
+        [here](./pdf/thesis.pdf)."
         layout: left
         sub_title: "<br>University of Amsterdam <br> ◉ GPA 8.6/10"
         title: "Research Master Brain and Cognitive Sciences"
@@ -118,17 +121,6 @@ content:
         layout: left
         sub_title: "University of Amsterdam<br>◉ GPA 8.5/10"
         title: "BSc Psychology"
-
-  - layout: list
-    title: <b>Thesis</b>
-    content:
-      - caption: "2020"
-        title: Brain and Cognitive Sciences
-        sub_title: "University of Amsterdam <br> ◉ Grade 9/10"
-        description: "<b>Supervised and Self-Supervised Learning in Deep
-        Convolutional Neural Networks as Computational Models for Object
-        Recognition.</b> Download the thesis [here](./pdf/thesis.pdf)."
-        layout: left
 
   - layout: list
     title: <b>Additional courses</b>
