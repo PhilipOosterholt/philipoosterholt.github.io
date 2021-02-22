@@ -16,7 +16,7 @@ about_content: |
     for data, I have an entrepreneurial mindset. In 2014, I co-founded
     BrainFitness, a platform for neurotech for consumers. The company
     was successfully sold in 2017. <br><br>In my spare time, I like to sport
-    (&#127947;, &#x1F9D7;, &#127934; & &#x1f6b4;), game &#127918; (Civilization
+    (&#127947;, &#x1F9D7;, &#127934; & &#x1f6b4;), travel &#9992;, game &#127918; (Civilization
     VI), watch movies &#127909; and follow SpaceX &#128640;
 about_profile_image: images/me.jpg
 
@@ -95,9 +95,9 @@ content:
         neuroscience, neurology, psychology, behavioural economics, linguistics,
         logic, computation (including AI) and philosophy.
         <br><br>The interdisciplinary nature of the master allowed me to pivot
-        from neuroscience to AI. <b>Thesis: Supervised and Self-Supervised
+        from neuroscience to AI. <br><br><b>Thesis: Supervised and Self-Supervised
         Learning in Deep Convolutional Neural Networks as Computational Models
-        for Object Recognition. ◉ Grade 9/10</b> Download the thesis
+        for Object Recognition. ◉ Grade 9/10.</b> Download the thesis
         [here](./pdf/thesis.pdf)."
         layout: left
         sub_title: "<br>University of Amsterdam <br> ◉ GPA 8.6/10"
